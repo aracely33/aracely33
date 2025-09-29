@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Aracely Cruz!
 
-## Full Stack Developer | Villahermosa, Tabasco, Mexico 🇲🇽
+## Full Stack Developer | Veracruz,  Mexico 🇲🇽
 
-📞 (+52) 5577458792  
+📞 (+52) 9932876882  
 ✉️ [aracelycruzdlangel@gmail.com](mailto:aracelycruzdlangel@gmail.com)  
 😺🐙 [GitHub](https://github.com/aracely33)  
 🔗 [LinkedIn](https://www.linkedin.com/in/aracruzdelangel/)
