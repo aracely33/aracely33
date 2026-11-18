@@ -1,88 +1,80 @@
-# 👋 Hello, I'm Aracely Cruz!
+# 👋 Hi, I'm Aracely Cruz!
 
-## Full Stack Developer | Veracruz,  Mexico 🇲🇽
+### Full Stack Developer | Biomedical Engineer (IPN) | Building HealthTech & HL7 FHIR-Ready Apps 🩺💻
 
-📞 (+52) 9932876882  
+📍 **Veracruz, Mexico** (Remote — Seamless US Timezone Overlap)  
 ✉️ [aracelycruzdlangel@gmail.com](mailto:aracelycruzdlangel@gmail.com)  
-😺🐙 [GitHub](https://github.com/aracely33)  
-🔗 [LinkedIn](https://www.linkedin.com/in/aracruzdelangel/)
+🔗 [LinkedIn](https://www.linkedin.com/in/aracruzdelangel/)  
 
 ---
 
-## 🌟 Profile
+## 🌟 About Me
 
-I'm a **Full Stack Developer** with a specialization in the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and a solid foundation in JavaScript. My background in **Biomedical Engineering** 🩺 provides a unique perspective on both technical and medical problem-solving. With experience across the full software development lifecycle, I thrive in dynamic and agile environments and am currently seeking remote opportunities to leverage my skills in a flexible, collaborative setting.
+I'm a **Full Stack Developer** with a B.Sc. in **Biomedical Engineering (UPIBI–IPN)** and 2+ years of hands-on experience building scalable, user-centric web applications using **React, TypeScript, Next.js, Node.js, Hono, and PostgreSQL**.
 
-## 💼 Professional Experience
+My biomedical background trained me to navigate complex constraints, value clear documentation, and design interfaces that genuinely fit real-world clinical and operational workflows. I thrive in remote, asynchronous teams where direct feedback and high product ownership drive results.
 
-
-### Volunteer Developer  
-[No Country](https://www.nocountry.tech/)
-_February 2024 - Current | Mexico (Online)_  
-
-- 🚀 Collaborated closely with UI designers to turn creative concepts into functional, high-quality user interfaces.
-- 🛠️ Ensured design consistency and alignment by working seamlessly with front-end developers and UI/UX designers using tools like Trello and Jira.
-- 🔧 Developed and maintained web applications in a SaaS model, focusing on integration and user management.
-- 🎨 Created responsive, visually appealing interfaces using Tailwind CSS, Daisy UI, and Next UI.
-- 📝 Performed detailed code reviews and managed tasks using GitHub Projects, adhering to best practices.
-- 🌐 Consumed and documented APIs, implemented JWT for secure authentication, and managed cookies for session management.
-
-## 🧠 Skills
-
-**Frontend:**  
-<div style="display: flex; flex-wrap: wrap;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>  
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>  
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>  
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" /></a>  
-    <a href="https://daisyui.com/" target="_blank" rel="noreferrer"><img src="https://img.daisyui.com/images/daisyui-logo/daisyui-logomark.svg" width="36" height="36" alt="Daisy UI" /></a>  
-   <a href="https://nextui.org/" target="_blank" rel="noreferrer"><img src="https://nextui.org/_next/image?url=https%3A%2F%2Fnextui.org%2Fnextui-banner.png&w=1920&q=100" width="36" height="36" alt="Next UI" /></a>  
-</div>
-
-**Backend:**  
-<div style="display: flex; flex-wrap: wrap;">
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>  
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express.js" /></a>  
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>  
-  <a href="https://sequelize.org/" target="_blank" rel="noreferrer"><img src="https://sequelize.org/img/logo.svg" width="36" height="36" alt="Sequelize" /></a>
-</div>
-
-**Tools:**  
-<div style="display: flex; flex-wrap: wrap;">
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" width="36" height="36" alt="Postman" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="36" height="36" alt="GitHub" /></a>
-  <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://banner2.cleanpng.com/20180621/ewt/kisspng-trello-logo-slack-atlassian-trello-5b2bcdc85e4d36.2783338815295973843863.jpg" width="36" height="36" alt="Trello" /></a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="36" height="36" alt="Jira" /></a>
-</div>
-
-## 🎓 Education
-
-
-- **Full Stack Web Developer** | [TripleTen Latam](https://www.linkedin.com/school/tripleten-latam/)  
-  April 2022 – October 2023 | Mexico (Online Course)
-- **Biomedical Engineering (B.Sc.)** | UPIBI - [Instituto Politécnico Nacional](https://www.linkedin.com/school/ipnmx/)  
-  August 2014 - June 2020 | Mexico City, Mexico
-
+### 🚀 Currently Focusing On
+- 🩺 **HL7 FHIR R4 Certification:** Preparing for the *HL7 FHIR Foundational Implementer* exam—practicing RESTful FHIR APIs, resource modeling (`Patient`, `Observation`, `Encounter`), and SMART on FHIR security.
+- 🐾 **Pet Health Tracker (`pet-health-web`):** Architecting a longitudinal pet health & vaccination app with **Hono, TypeScript, and PostgreSQL (Supabase)** using Row Level Security (RLS), Zod validation, and FHIR-aligned data schemas.
 
 ---
 
-## 📈 GitHub Stats
+## 💼 Experience Highlights
 
-<div style="display: flex; justify-content: center;">
-  <a href="http://www.github.com/aracely33"><img src="https://github-readme-streak-stats.herokuapp.com?user=aracely33&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-  <a href="http://www.github.com/aracely33"><img src="https://github-readme-stats.vercel.app/api?username=aracely33&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub Stats" /></a>
-</div>
+### **Full Stack Developer — Freelance**
+_Remote, Mexico | 2023 – Present_
+- 📈 **Product Ownership & Analytics:** Unblocked critical roadmap decisions within a **30-day deadline** by independently researching, implementing, and configuring **PostHog** product analytics on a React/TypeScript frontend when backend resources were delayed.
+- ⚙️ **End-to-End Architecture:** Built custom full-stack applications with **React, TypeScript, Tailwind CSS, Node.js, Hono, and Supabase**, focusing on clean documentation and maintainable relational schemas.
+
+### **Full Stack Developer — [No Country](https://www.nocountry.tech/) (Agile Tech Simulations)**
+_Remote, Latin America | February 2024 – Present_
+- 🤝 Collaborated in multidisciplinary remote teams (UX/UI, Backend, QA) using Scrum, Jira, and Trello to deliver functional SaaS MVPs under strict sprint timelines.
+- 🎨 Built accessible, responsive interfaces with **React, TypeScript, Next.js, Tailwind CSS, NextUI, and DaisyUI**, ensuring seamless REST API integration and JWT/cookie authentication.
+- 📝 Conducted peer code reviews and managed sprint tasks via **GitHub Projects**.
 
 ---
 
-## 📫 Contact Me
+## 🧠 Tech Stack
 
-I'm always open to new opportunities and collaborations. Feel free to reach out!
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&perline=7" alt="Frontend Skills" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,mongodb,prisma&perline=6" alt="Backend & Database Skills" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel,linux&perline=6" alt="Tools & Cloud" />
+</p>
+
+*(Also working with: **Hono**, **Zod**, **Sequelize ORM**, **NextUI**, **DaisyUI**, **PostHog**, and **HL7 FHIR R4**)*
+
+---
+
+## 📊 GitHub Activity & Languages
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aracely33&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aracely33&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aracely33&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🎓 Education & Credentials
+
+- 🩺 **B.Sc. in Biomedical Engineering** — UPIBI, [Instituto Politécnico Nacional (IPN)](https://www.linkedin.com/school/ipnmx/) *(2014 – 2020)*
+- 💻 **Full Stack Web Developer** — [TripleTen Latam](https://www.linkedin.com/school/tripleten-latam/) *(2022 – 2023)*
+- 🎯 **HL7 FHIR R4 Foundational Implementer** — *In Active Preparation (2026)*
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
   <a href="https://www.linkedin.com/in/aracruzdelangel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:aracelycruzdlangel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
